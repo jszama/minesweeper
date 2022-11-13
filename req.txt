@@ -1,0 +1,6 @@
+Minesweeper Field
+
+- Function to check around cell
+- Function to randomly place Mines
+- Function to check if clicked cell is a mine
+- Function to display amount of mines around cell
