@@ -62,9 +62,7 @@ class Grid():
                 valid_cols.append(reqCol -1)
             
             for R in valid_rows:
-                print(R)
                 for C in valid_cols:
-                    print(C)
                     if self.mineField[R][C] != "X":
                         nearby += 1
             
